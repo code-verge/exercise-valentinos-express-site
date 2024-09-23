@@ -53,6 +53,7 @@ After forking and cloning the repository, you will find an empty Node.js project
 
 Your first task is to **install Express** and **set up the project** **to follow the structure below**:
 
+```
 valentinos-website/
 │
 ├── public/
@@ -67,6 +68,7 @@ valentinos-website/
 │
 ├── app.js
 ├── package.json
+```
 
 
 
